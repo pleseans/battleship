@@ -1,4 +1,4 @@
-import pygameafdasfafasfasfasfsdfsdfsfsfsfsafsafasfs
+import pygame
 import random as r
 
 board = [
